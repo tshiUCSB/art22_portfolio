@@ -1,0 +1,133 @@
+@font-face {
+	font-family: orbitron;
+	src: url(fonts/orbitron-light.otf);
+}
+
+body
+{
+    background-color: #27282b;
+    background-image: url(images/triangle_pattern_v2_by_black_light_studio-d68vrf3.png);
+    background-image: repeat;
+    background-size: cover;
+    color: #c6cbd5;
+    font-family: 'Saira', sans-serif;
+    font-size: 14px;
+    max-width: 100%;
+   /* margin-left = 0px;
+    margin-right = 0px;*/
+}
+
+header{
+    background-color: rgba(0, 0, 0, 0.4);
+    background-clip: content-box;
+    font-family: orbitron;
+}
+
+h1
+{
+    color: white;
+/*    font-family: orbitron;*/
+    font-size: 80px;
+    margin-left: 10px;
+}
+
+h2
+{
+    font-family: orbitron;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 80px;
+    color: #cc1052;
+}
+
+h3{
+    margin-top: -45px;
+    margin-left: 24px;
+    color: #cc1052;
+    
+}
+
+p{
+    padding-left: 5vw;
+    padding-right:5vw;
+/*    text-align: justify;
+*/}
+
+section
+{
+    width: 100%;
+}
+
+a{
+    color: white;
+    text-decoration-line: none;
+}
+
+hr
+{
+    width:66.66%;
+    align-self: center;
+}
+
+img
+{
+    width: 50%;
+}
+
+div#instagramLink{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+div.bio{
+    text-align: center;
+}
+
+div.menuBar{
+    background-color: rgba(0, 0, 0, .8);
+    /*display: flex;
+    flex-flow: row wrap;
+    width: 100%;*/
+}
+
+
+table{
+    font-family: orbitron;
+    border-spacing: 6vw 10px;
+    font-size: 1.3vw;
+/*    margin-left: -80px;
+*/}
+
+div.flex-container{
+    display: flex;
+/*    flex-direction: row;*/
+    flex-flow: row wrap;
+    width: 100vw;
+    align-self: center;
+/*    background-color: rgba(0, 0, 0, .8);*/
+/*    justify-content: center;*/
+    border-color: white;
+    border-width: 10px;
+    padding: 2vw;
+}
+
+img.collageDisplay{
+    width: 45vw;
+}
+
+#sprite-sheet{
+    text-align: center;
+}
+
+#tryWASD{
+    color: white;
+}
+
+.crimson{
+    color: #cc1052;
+}
+
+#final-sketch{
+    width: 100%;
+/*    text-align: center;
+*/}

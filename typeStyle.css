@@ -1,0 +1,178 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+/*    max-width: 100%;*/
+/*    min-width: 100%;*/
+}
+
+section{
+    display:block
+    width: 100%;
+/*    align-self: center;*/
+/*
+    margin-left = 0px;
+    margin-right = 0px;
+*/
+}
+
+div.menuBar{
+    background-color: rgba(0, 0, 0, .7);
+}
+
+@font-face {
+	font-family: orbitron;
+	src: url(fonts/orbitron-light.otf);
+}
+
+table{
+    font-family: orbitron;
+    border-spacing: 100px 10px;
+    margin-left: -80px;
+}
+
+a{
+    color: white;
+    text-decoration-line: none;
+}
+
+
+header{
+/*    width: 100%*/
+    padding-bottom: 50vw;
+}
+
+h1{
+    font-size: 50vw;
+    padding-top: 1vh;
+    margin-top: 0px;
+    float: left;
+}
+
+h2{
+    float: center;
+    text-align: center;
+    font-size: 4vw;
+    padding-top: 30vw;
+}
+
+div.segment{
+/*    height: 20vh;*/
+/*    margin-top: -100px;*/
+    opacity: 0;
+}
+
+div.segment:hover{
+    opacity: 1;
+}
+
+div.section1{
+    font-size: 18vw;
+    text-align: left;
+    padding-top: 1vh;
+    margin-bottom: -8vh;
+/*    margin-top: -300px;*/
+}
+
+div.section2{
+    font-size: 2vw;
+/*    float:right;*/
+    text-align: right;
+    margin-right: 20px;
+/*    margin-top: -300px;*/
+    padding-bottom: 10px;
+}
+
+#pristine{
+/*    text-align: right;*/
+/*    padding-top: 200px;*/
+/*    margin-top: 1000px;*/
+/*    margin-right: 20px;*/
+    font-family: 'Raleway', sans-serif;
+    background-color: #ebebeb;
+}
+
+#pleasant{
+    font-family: 'Dancing Script', cursive;
+    background-color: #d4d4d4;
+}
+
+#pervasive{
+    font-family: 'Staatliches', cursive;
+    background-color: #cacaca;
+}
+
+#passing{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-color: #aaaaaa; 
+    color: #181818;
+}
+
+#polar{
+    font-family: 'Major Mono Display', monospace;
+    background-color: #848484;
+    color: #181818;
+}
+
+#pricey{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    background-color: #636363;
+    color: #303030;
+}
+
+#power{
+    font-family: 'Black Ops One', cursive;
+    background-color: #4a4a4a;
+    color: #303030;
+}
+
+#passive{
+    font-family: 'Raleway Dots', cursive;
+    background-color: #303030;
+    color: #848484;
+}
+
+#poverty{
+    font-family: 'Rock Salt', cursive;
+    background-color: #181818;
+    color: #cacaca;
+}
+
+#pain{
+    font-family: 'Cabin Sketch', cursive;
+    background-color: black;
+    color: white;
+}
+
+#partner{
+    font-family: 'Vibur', cursive;
+    background-color: #181818;
+    color: #cacaca;
+}
+
+#perfection{
+    font-family: 'Teko', sans-serif;
+    background-color: #4a4a4a;
+    color: #848484;
+}
+
+#persevere{
+    font-family: 'Amatic SC', cursive;
+    background-color: #636363;
+    color: #303030;
+}
+
+#past{
+    font-family: 'Cinzel', serif;
+    background-color: #848484;
+    color: #181818;
+}
+
+#present{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #cacaca;
+/*    padding-top: 40px;*/
+}
+
+#persona{
+    font-family: 'Shadows Into Light', cursive;
+    background-color: #ebebeb;
+}

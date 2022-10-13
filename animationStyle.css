@@ -1,0 +1,58 @@
+@font-face {
+	font-family: orbitron;
+	src: url(fonts/orbitron-light.otf);
+}
+
+body
+{
+    background-color: #27282b;
+    background-image: url(images/triangle_pattern_v2_by_black_light_studio-d68vrf3.png);
+    background-image: repeat;
+    background-size: cover;
+    color: #c6cbd5;
+    font-family: 'Saira', sans-serif;
+    font-size: 14px;
+    max-width: 100%;
+    margin-left = 0px;
+    margin-right = 0px;
+}
+
+h1
+{
+    color: white;
+    font-family: orbitron;
+    font-size: 80px;
+    margin-left: 10px;
+}
+
+h2
+{
+    font-family: orbitron;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 80px;
+    color: #cc1052;
+}
+
+h3{
+    margin-top: -45px;
+    margin-left: 24px;
+    color: #cc1052;
+    
+}
+
+a{
+    color: white;
+    text-decoration-line: none;
+}
+
+div.menuBar{
+    background-color: rgba(0, 0, 0, .8);
+}
+
+
+table{
+    font-family: orbitron;
+    border-spacing: 100px 10px;
+    margin-left: -80px;
+}
